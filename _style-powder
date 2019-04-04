@@ -1,0 +1,81 @@
+
+* {
+    outline: 1px solid red;
+}
+
+
+body {
+    background-color:#f0eee1;
+    background-image: url(resized_images/resized/milk_drips/blue_header.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+	background-position: top;
+    margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+    
+    font-family: 'snicklesregular';
+
+}
+
+#nav {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	margin-top: 30px;
+    font-size: 4.4em;
+    text-align: center;
+    color: #0d1e32;
+	grid-column: 1/4;
+	padding-bottom: 200px;
+}
+
+#top {
+    background-image: url(resized_images/resized/products/ICE_final.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+        
+}
+#top h1 {
+    font-size: 6em;
+    text-align: center;
+    margin-top: -100px;
+}
+
+#topdrip {
+    background-image:url('resized_images/resized/milk_drips/cream2.png');
+    background-repeat: no-repeat;
+    height: 200px;
+    background-size: cover
+}
+
+
+#process {
+    background-image: url(resized_images/resized/products/ICE_progress.png);
+    background-repeat:no-repeat;
+    height: 800px;
+    background-color:#b0e3e4; 
+    background-position: bottom
+ 
+}
+#process h2 {
+    font-size: 6em;
+    text-align: center;
+    background-color: #b0e3e4;
+    margin-top: 0px;
+    padding-top: 30px;
+    
+}
+
+#bottem {
+    background-image: url(resized_images/resized/milk_drips/blue2%20copy.png);
+    background-color: #b0e3e4;
+    width: cover;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: -0px;
+    margin-bottom: 30px;
+ }
+        

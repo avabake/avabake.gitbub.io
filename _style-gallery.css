@@ -1,0 +1,15 @@
+#img {
+    padding: 100px;
+        
+}
+
+#bottem {
+    background-image: url(resized_images/resized/milk_drips/cream2.png);
+    background-color: #b0e3e4;
+    width: cover;
+    height: 220px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: -140px;
+    
+ }

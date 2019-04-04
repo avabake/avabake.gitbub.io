@@ -1,0 +1,38 @@
+body {
+    
+}
+
+#img {
+    background-image: url(resized_images/resized/milk_drips/blue2%20copy.png);
+    background-size: cover;
+    background-color: #b0e3e4;
+    margin: auto;
+    margin-top: 80px;
+    font-size: 5em;
+    text-align: center;
+    color: #0d1e32;
+    padding-bottom: 250px;
+    background-size: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    
+}
+
+#img a {
+    text-decoration: none;
+    color:goldenrod;
+}
+
+#img a.selected {
+    text-decoration-line: underline;
+}
+
+#img a:hover {
+    color: #0d1e32;
+}
+
+#color {
+    background-color:#f0eee1; 
+    height: 200px;
+    width: auto;
+}
